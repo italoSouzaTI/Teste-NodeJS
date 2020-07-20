@@ -62,7 +62,7 @@ Apaga o veículo
 
 ## Frontend
 
-Desenvolver **UI (User Interface)** baseado no escopo que está na pasta [layout](https://github.com/oncarsolucoes/Teste-NodeJS/tree/master/layout)
+Desenvolver **UI (User Interface)** baseado no escopo que está na pasta [layout](https://github.com/oncarsolucoes/Teste-NodeJS/tree/master/layout), utilizando HTML, CSS e Javascript (Pode usar jQuery).
 
 ### Especificação
 
