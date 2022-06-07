@@ -15,10 +15,10 @@ const config: Knex.Config = {
     debug: false,
     migrations: {
         tableName: 'knex_migrations',
-        directory: resolve(__dirname, 'migrations'),
+        directory: resolve(__dirname, './migrations'),
     },
     seeds: {
-        directory: resolve(__dirname, 'seeds'),
+        directory: resolve(__dirname, './seeds'),
     },
 };
 export default { config };
